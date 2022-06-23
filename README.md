@@ -6,6 +6,6 @@ I'm a **junior software developer** currently studying Computer Engineering in Ã
 My passion of *being part of creative processes* led me to software development.
 Now I'm busy building my portfolio and developing my programming skills.
 
-Please contact me by **mail**(furkaneskil@gmail.com) or [twitter](https://twitter.com/furkan_eskil)
+Please contact me by **mail**/(furkaneskil@gmail.com/) or [twitter](https://twitter.com/furkan_eskil)
 
 # You can visit my web page - https://furkaneskil.github.io/
