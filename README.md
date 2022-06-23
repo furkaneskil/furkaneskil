@@ -1,8 +1,8 @@
 ### Hey!
 
-This is *Furkan Eşkil*'s GitHub profile.
+This is **Furkan Eşkil**'s GitHub profile.
 
-I'm a *junior software developer* currently studying Computer Engineering in Çukurova University.
+I'm a **junior software developer** currently studying Computer Engineering in Çukurova University.
 My passion of *being part of creative processes* led me to software development.
 Now I'm busy building my portfolio and developing my programming skills.
 
